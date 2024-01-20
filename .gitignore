@@ -1,0 +1,15 @@
+**/node_modules
+package-lock.json
+
+# Editors
+.idea
+.vscode
+
+# OS Files
+.DS_Store
+
+# Cache
+*.tsbuildinfo
+*.swc
+.turbo
+.babel-cache
